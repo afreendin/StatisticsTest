@@ -47,3 +47,5 @@ class RandomNumberGenerator:
 
         return val_int, val_float
 
+    def test(self):
+        return print('This is a test')
